@@ -20,3 +20,9 @@ footer a {
 footer a:hover {
   color: #d1d1ff;
 }
+
+@media (max-width: 576px) {
+  .App {
+    padding: 40px 0;
+  }
+}

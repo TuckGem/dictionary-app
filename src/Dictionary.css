@@ -36,3 +36,8 @@
 .Dictionary .hint {
   color: black;
 }
+@media (max-width: 576px) {
+  .Dictionary section {
+    padding: 30px;
+  }
+}
